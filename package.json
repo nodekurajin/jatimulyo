@@ -31,7 +31,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodekurajin/jatimulyo.git"
+    "url": "https://github.com/nodekurajin/jatimulyo"
   },
   "keywords": [
     "nodekurajin",
