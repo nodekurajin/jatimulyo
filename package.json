@@ -31,15 +31,17 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodekurajin/kurajintea.git"
+    "url": "git+https://github.com/nodekurajin/jatimulyo.git"
   },
   "keywords": [
-    "nodekurajin"
+    "nodekurajin",
+    "teteh",
+    "jatimulyo"
   ],
   "author": "nodekurajin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nodekurajin/kurajintea/issues"
+    "url": "https://github.com/nodekurajin/jatimulyo/issues"
   },
-  "homepage": "https://github.com/nodekurajin/kurajintea#readme"
+  "homepage": "https://github.com/nodekurajin/jatimulyo#readme"
 }
